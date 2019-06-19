@@ -1,0 +1,27 @@
+h1 {
+  font-style: oblique 40deg;
+  text-shadow: 2px 2px lavender;
+
+}
+
+img {
+  height: 150px;
+  width: 125px;
+
+}
+h2 {
+  font-size: 15px;
+  font-style: times;
+}
+html {
+
+  background-color: beige;
+  border-size: 5px;
+  border-color: lime;
+
+
+}
+
+}
+img{
+  border-color: white;
